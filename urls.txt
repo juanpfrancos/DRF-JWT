@@ -1,0 +1,7 @@
+http://localhost:8000/api/blog/posts/
+
+http://localhost:8000/api/token/
+
+http://localhost:8000/api/token/verify/
+
+http://localhost:8000/api/token/refresh/
